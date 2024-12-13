@@ -1,0 +1,9 @@
+pip install pandas matplotlib
+
+        pandas       -> DATA ANALAYSE     
+        matplotlib   -> GRAPH LIB GENERATE
+
+        python main.py => to run python program
+
+        pip install pandas --user     =>library file installation
+        pip install matplotlib --user =>library file installation
